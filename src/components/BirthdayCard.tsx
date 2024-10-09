@@ -26,7 +26,7 @@ const BirthdayCard: React.FC = () => {
                     </CardContent>
 
                     <CardActions>
-                        <Button variant="contained" sx={{width: "100%"}} onClick={() => { setPeople([]) }}>
+                        <Button variant="contained" sx={{width: "100%", background: "#e91e63"}} onClick={() => { setPeople([]) }}>
                             Clear All
                         </Button>
                     </CardActions>

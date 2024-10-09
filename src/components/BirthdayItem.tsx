@@ -17,8 +17,7 @@ const BirthdayItem: React.FC<{ person: Person }> = ({ person }) => {
             <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
                 <ListItem>
                     <ListItemAvatar>
-                        <Avatar>
-                            <ImageIcon />
+                        <Avatar src={person.image}>
                         </Avatar>
                     </ListItemAvatar>
                     <ListItemText primary={person.name} secondary={`${person.age} years old`} />
