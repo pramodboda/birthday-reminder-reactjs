@@ -1,5 +1,4 @@
-# React + TypeScript + Vite
-## Birthday Reminder
+# Birthday Reminder Card
 ### Using Technologies
 - Vite
 - React 
