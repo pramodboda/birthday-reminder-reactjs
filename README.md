@@ -1,6 +1,5 @@
-# React + TypeScript + Vite
-## Birthday Reminder
-### Using Technologies
+# Birthday Reminder
+## Using Technologies
 - Vite
 - React 
 - TypeScript
